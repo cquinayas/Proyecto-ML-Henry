@@ -31,7 +31,7 @@ Usted ha sido contactado para el área de Machine Learning de una importante emp
 - XGBClassifier
 - RandomForestClassifier
 
-![Accuracy]()
+![Accuracy](https://github.com/cquinayas/Proyecto-ML-Henry/blob/main/accuracy.png)
 
 
 
